@@ -1,8 +1,5 @@
 # Java-Analytics-Engine
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Maven](https://img.shields.io/badge/Apache_Maven-CC3636?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## 🇧🇷 Português
 
